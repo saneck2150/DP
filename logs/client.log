@@ -1,0 +1,4 @@
+[LOG] Connected to server successfully
+[LOG] Sending message: 123
+[LOG] Response from server: Server received: 123
+[LOG] Connection closed

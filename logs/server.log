@@ -1,0 +1,8 @@
+2025-01-20 00:23:24,502 - INFO - Server started at 127.0.0.1:8888
+2025-01-20 00:23:26,607 - INFO - New connection from ('127.0.0.1', 35736)
+2025-01-20 00:23:26,643 - INFO - Received from ('127.0.0.1', 35736): 123
+2025-01-20 00:23:26,644 - INFO - Sent to client ('127.0.0.1', 35736): Server received: 123
+2025-01-20 00:23:26,644 - INFO - Connection with ('127.0.0.1', 35736) closed
+2025-01-20 00:23:27,653 - INFO - Server properly stopped
+2025-01-20 00:23:28,645 - ERROR - Error: [Errno 9] Bad file descriptor
+2025-01-20 00:23:28,645 - INFO - Server stopped
