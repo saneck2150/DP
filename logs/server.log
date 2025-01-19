@@ -6,3 +6,14 @@
 2025-01-20 00:23:27,653 - INFO - Server properly stopped
 2025-01-20 00:23:28,645 - ERROR - Error: [Errno 9] Bad file descriptor
 2025-01-20 00:23:28,645 - INFO - Server stopped
+2025-01-20 00:35:06,859 - INFO - Server started on 127.0.0.1:8888
+2025-01-20 00:35:13,200 - INFO - New connection from ('127.0.0.1', 53970)
+2025-01-20 00:35:13,201 - INFO - Received ID: 12345
+2025-01-20 00:35:13,202 - INFO - ID 12345 found in database: Access Granted
+2025-01-20 00:35:13,202 - INFO - Response: Access Granted
+2025-01-20 00:35:13,202 - INFO - Connection closed
+2025-01-20 00:35:21,267 - INFO - New connection from ('127.0.0.1', 33448)
+2025-01-20 00:35:21,268 - INFO - Received ID: 123
+2025-01-20 00:35:21,268 - INFO - ID 123 not found in database: Access Denied
+2025-01-20 00:35:21,269 - INFO - Response: Access Denied
+2025-01-20 00:35:21,269 - INFO - Connection closed

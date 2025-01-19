@@ -2,3 +2,11 @@
 [LOG] Sending message: 123
 [LOG] Response from server: Server received: 123
 [LOG] Connection closed
+[LOG] Connected to server successfully
+[LOG] Sending message: 12345
+[LOG] Response from server: Access Granted
+[LOG] Connection closed
+[LOG] Connected to server successfully
+[LOG] Sending message: 123
+[LOG] Response from server: Access Denied
+[LOG] Connection closed
